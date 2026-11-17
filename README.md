@@ -21,4 +21,4 @@
 - [LinkedIn](https://www.linkedin.com/in/rejuyan-hossain-shawon-0b400717b/)
 - [Google Scholar](https://scholar.google.com/citations?user=aUk-_a0AAAAJ)
 - [ORCID](https://orcid.org/0009-0009-5251-2837)
-- [Portfolio]([https://orcid.org/0009-0009-5251-2837](https://shawon-portfolio-mu.vercel.app))
+- [Portfolio]([https://orcid.org/0009-0009-5251-2837](https://shawon-portfolio-mu.vercel.app)
